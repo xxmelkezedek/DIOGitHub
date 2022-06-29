@@ -1,0 +1,33 @@
+html foi criado 1991 por tim berners-lee
+queria apenas compartilhar documentos com os amigos
+html5 foi lançado em 2014, ou seja 5 versões
+
+elementos html
+sao a base do html, tudo dentro do arquivo é um elemento
+elementos tem atributos e funcções
+tudo se abre com tag e fecha tambem
+
+estrutura html
+doctype 
+html
+head
+meta
+titulo
+-titulo da pagina
+/titulo
+/head
+body
+-conteudo da pagina
+/body
+/html
+
+
+SOBRE SEMANTICA
+html5 em 2014 ajudou muito, ainda mais na questão dos DIVs
+que foram muito utilizados
+
+com o html5 vieram diversos outros marcadores
+footer = rodape
+h1..1..3 = tamanho de fontes
+article = geralmente um artigo ou postagem
+header = cabeçalho infos que são informadas na cabeça da pagina

@@ -1,0 +1,24 @@
+LISTAS EM HTML
+-servem pra agrupar coleções de items, lista de contatos e etc
+
+elemento <UL> não importa a ordem dos itens
+elemento <ol> a ordem é importante, portanto são representados por numeros ou letras
+elemento <li> é o elemento de ambas as listas, ou seja os itens
+
+
+
+como adicionar uma lista de contados ao rodapé do site
+
+-footer utilizado geralmente para os rodapés das paginas
+-utilizaremos ul pois não importa a ordem dos itens
+-dentro de ul cada item sera identificado por li
+-todas requerem fechamento de tags
+-podem ser utilizadas outras tags dentro das tags de li(itens da lista)
+
+<footer>
+	<ul>
+		<li><a href="https://upload.wikimedia.org/wikipedia/commons/7/7a/Waterhouse-Diogenes.jpg">Imagem de diogenes, sera aberta nesta pagina</a></li>
+		<li></li>
+		
+	</ul>
+</footer>

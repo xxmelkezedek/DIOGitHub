@@ -1,0 +1,11 @@
+CSS3
+SELETORES, CONCEITOS, BASICOS E PRINCIPAIS SELETORES
+
+-em 1996 foi criado o CSS, linguagem de estilo
+-cria regra de estilo para elementos e grupos de elementos
+
+BOXMODEL
+-representa os elementos em formas retangulares
+-margin, border, padding, content
+-navegador realiza dessa forma a apresentação 
+

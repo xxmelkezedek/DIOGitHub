@@ -1,0 +1,40 @@
+body {
+	background: gray;
+	font-family: Verdana;
+	width: 830px;
+	margin: auto;
+}
+
+
+#title, subtitle, post_title {
+	color: blue;
+}
+
+.post_title {
+	font-size: 16px;
+	font-style: italic;
+}
+
+.post {
+	background: white;
+	padding: 20px;
+	border: 5px dotted red;
+	border-left: 5px dashed green;
+	border-right: 5px dashed orange;
+	border-bottom: 5px dotted yellow;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+.img_style {
+	border: 2px solid blue;
+	width: 100%;
+}
+
+#title{
+	text-transform: uppercase;
+	padding: 5px;
+	margin: 10px;
+	font-size: 40px;
+	
+}

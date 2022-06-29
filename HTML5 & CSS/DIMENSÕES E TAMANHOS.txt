@@ -1,0 +1,20 @@
+Width
+Height
+-ajustar largura e altura
+-100px altura, 100px largura
+-pode usar porcentagem
+
+Max Width
+Max Height
+-não se referem a altura e largura mas tamanhos maximos
+-se ajustam dependendo da situação
+
+Margin
+-espaçamento entre elementos
+-tem valor alto
+-serve pra alinhar algum elemento automaticamente
+
+Text Align
+-serve pra alinhar os textos
+-justificar o texto com justify
+
